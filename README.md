@@ -1,4 +1,5 @@
 <h1>Portafolio</h1>
 -Estado del proyecto en construccion
 Para ejecutar el sistema, debes poner:
-npm installl react
+```npm installl react```
+Sistema de Registro 2
